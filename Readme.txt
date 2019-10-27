@@ -1,2 +1,2 @@
-git server:   github, oschina
+git server:   github
 ...
